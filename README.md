@@ -22,10 +22,10 @@ Screenshots
 
 
 
-Description of the project
+Description of the project:
 This is a small game about a part of my college day. In my game you must go from your starting space, my apartment, through a reimagining of dublin to a bus parked the other side of the map. You will take in the sights and walk, run or jump through the map as you make your way there.
 
-Instructions for use
+Instructions for use:
 just click play and have a walk though. take your time, have a look at the variety of textures, patterns and the overall visual identity. eventually you will come accross the bus and maybe youll find the second bus hidden in the map. just walk into it and youll be transported to the end screen.
 
 How it works:
@@ -39,10 +39,11 @@ MyClass2.cs	From reference
 References
 Item 1
 Item 2
-What I am most proud of in the assignment
+
+What I am most proud of in the assignment:
 Im actually incredibly proud of the whole thing. i made something i really liked. however if i had to pick one thing it would be the character controller. it took the most time to code and i think it payed off. its very smooth and the bobbing and fov changes are really fun.
 
-What I learned
+What I learned:
 Through this assignment i believe my ability to code improved tenfold. i didnt really get gdscript before this however aftergoing off on my own and playing with the engine i was able to code things i was proud of and was able to create a short experience that i love.
 
 Character Controller:
@@ -125,6 +126,7 @@ Character Controller:
 
 
 Menu code:
+
 	extends Node2D
 
 	func _on_start_pressed() -> void:
