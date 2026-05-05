@@ -45,12 +45,6 @@ Im actually incredibly proud of the whole thing. i made something i really liked
 What I learned
 Through this assignment i believe my ability to code improved tenfold. i didnt really get gdscript before this however aftergoing off on my own and playing with the engine i was able to code things i was proud of and was able to create a short experience that i love.
 
-Proposal submitted earlier can go here (if there is one):
-Examples of markdown:
-This is how to markdown text:
-This is emphasis
-
-
 Character Controller:
 
 	extends CharacterBody3D
